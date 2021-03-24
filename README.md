@@ -1,3 +1,3 @@
 # data
 
-Small(ish) datasets on various subjects.
+Datasets on various subjects.
