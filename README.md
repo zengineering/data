@@ -1,6 +1,6 @@
 # data
 
-Datasets on various subjects.
+Datasets and exploration on various subjects.
 
 
 ### Links
