@@ -1,4 +1,4 @@
-# data
+# dataplay
 
 Datasets and exploration on various subjects.
 
